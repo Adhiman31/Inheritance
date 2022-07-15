@@ -1,0 +1,17 @@
+INFO 2022-07-14 21:30:57,320 this is course class object:  <__main__.course object at 0x000001B15C2B7460>
+INFO 2022-07-14 21:30:57,320 this is jobs class object:  <__main__.jobs object at 0x000001B15C2B7520>
+INFO 2022-07-14 21:30:57,320 this is internship class object:  <__main__.internship object at 0x000001B15C2B78B0>
+INFO 2022-07-14 21:30:57,321 Since class jobs inherited the properties of class course , we will try to access/call function inside course class...
+INFO 2022-07-14 21:30:57,321 this function gives the fee description as per chosen course
+INFO 2022-07-14 21:30:57,321 the fees for FSDS course is 15000 INR
+INFO 2022-07-14 21:30:57,321 None
+INFO 2022-07-14 21:30:57,321 Since class internship inherited class jobs , and jobs already inherited class course , we will try access functions of both with the object of class internship.....
+INFO 2022-07-14 21:30:57,321 this function provides job role and annual salary expectations offered at inueron
+INFO 2022-07-14 21:30:57,321 The Job Role is Data Scientist and Salary is 1200000
+INFO 2022-07-14 21:30:57,321 The Job Role is SQL Developer and Salary is 100000
+INFO 2022-07-14 21:30:57,321 The Job Role is Data Engineer and Salary is 130000
+INFO 2022-07-14 21:30:57,321 The Job Role is Data Analyst and Salary is 900000
+INFO 2022-07-14 21:30:57,321 None
+INFO 2022-07-14 21:30:57,321 this function gives the fee description as per chosen course
+INFO 2022-07-14 21:30:57,321 the fees for SQL course is 5000 INR
+INFO 2022-07-14 21:30:57,321 None

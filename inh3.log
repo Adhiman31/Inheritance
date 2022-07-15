@@ -1,0 +1,7 @@
+INFO 2022-07-14 22:11:12,544 this is course class object:  <__main__.course object at 0x0000017F286C64C0>
+INFO 2022-07-14 22:11:12,544 this is jobs class object:  <__main__.jobs object at 0x0000017F286C6580>
+INFO 2022-07-14 22:11:12,544 this is multi class object:  <__main__.multi object at 0x0000017F286C6910> :
+INFO 2022-07-14 22:11:12,544 Now the function affliate is under both class Parent classes courses and jobs we will try to access this function with object of class_type and see which class function is fetched...
+INFO 2022-07-14 22:11:12,544 this is the function under class course
+INFO 2022-07-14 22:11:12,544 None
+INFO 2022-07-14 22:11:12,544 preference is given to the first class which is inherited , and in this case it is class course so function affliate fetched is of class course...

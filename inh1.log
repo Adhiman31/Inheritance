@@ -1,0 +1,13 @@
+INFO 2022-07-14 20:31:12,370 this is inueron class object:  <__main__.inueron object at 0x0000022050408430>
+INFO 2022-07-14 20:31:12,370 this is student classs object : <__main__.students object at 0x00000220504084F0>
+INFO 2022-07-14 20:31:12,370 calling inueuron class functions using students class objects....
+INFO 2022-07-14 20:31:12,370 this function provides job role and annual salary expectations offered at inueron
+INFO 2022-07-14 20:31:12,370 The Job Role is Data Scientist and Salary is 1200000
+INFO 2022-07-14 20:31:12,370 The Job Role is SQL Developer and Salary is 100000
+INFO 2022-07-14 20:31:12,370 The Job Role is Data Engineer and Salary is 130000
+INFO 2022-07-14 20:31:12,370 The Job Role is Data Analyst and Salary is 900000
+INFO 2022-07-14 20:31:12,370 this function gives the fee description as per chosen course
+INFO 2022-07-14 20:31:12,370 the fees for FSDS course is 15000 INR
+INFO 2022-07-14 20:31:12,370 this function gives the fee description as per chosen course
+INFO 2022-07-14 20:31:12,370 Sorry , currently we do not have the course you are looking for
+INFO 2022-07-14 20:31:12,370 This is function under class student
